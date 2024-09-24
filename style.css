@@ -1,0 +1,21 @@
+/* Challenge 1: Set font-family for body as Poppins */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Challenge 2: Set font-variant, font-weight, and font-style for the element with id 'css' */
+#css {
+  font-variant: small-caps; /* Small-caps variant */
+  font-weight: bold; /* Bold weight */
+  font-style: italic; /* Italic style */
+}
+
+/* Challenge 3: Set the font-size for all p tags to 15px */
+p {
+  font-size: 15px;
+}
+.name{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
